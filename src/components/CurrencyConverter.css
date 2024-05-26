@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: 0;
+}
+
+.exchange-box {
+    width: 150%;
+    margin: 12px;
+    background: #a6d87e;
+    border-radius: 6px;
+    border: 1px solid #263b14;
+    box-shadow: 7px 7px #d1d4cf;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: monospace;
+    color: #000;
+}
+
+h3 {
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #263b14;
+    font-weight: bold;
+
+}
+
+label {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5px;
+    color: #263b14;
+}
+
+.btn {
+    margin: 12px;
+    padding-inline: 8px;
+    border-radius: 5px;
+    background: linear-gradient(#79a853, #567c37, #456927);
+}
+
+.btn:hover {
+    background: linear-gradient(#528128, #28440f);
+    color: #a6d87e;
+}
